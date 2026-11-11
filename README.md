@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # terraform-1
-=======
 # Terraform Nginx Demo - 2 AZs in Sydney
 
 Mumbai ap-south-1 SCP blocked EC2 creation.
@@ -17,4 +15,3 @@ Sydney ap-southeast-2 worked with Terraform.
 
 ## Cleanup
 terraform destroy -auto-approve
->>>>>>> 1264e4e (Terraform Nginx in 2 AZs Sydney, Mumbai SCP blocked)
